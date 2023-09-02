@@ -79,10 +79,10 @@ Welcome to my portfolio web application built with JavaScript, EJS (Embedded Jav
 6. Access the application in your web browser at `http://localhost:3000`.
 
   ###  🌐 Usage
-    - Explore the diverse pages and functionalities provided by the application.
-    - Utilize the contact form to send messages and inquiries to your business.
-    - Register an account or log in to access exclusive content or features (if applicable).
-    - Discover the products or services offered by your business.
-    - Reach out to your business using the conveniently provided contact information.
+     Explore the diverse pages and functionalities provided by the application.
+     Utilize the contact form to send messages and inquiries to your business.
+     Register an account or log in to access exclusive content or features (if applicable).
+     Discover the products or services offered by your business.
+     Reach out to your business using the conveniently provided contact information.
 
 
